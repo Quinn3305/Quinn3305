@@ -43,7 +43,9 @@
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=Quinn3305&bg_color=1a1b27&color=79ff97&line=79ff97&point=f758a5&area=true&hide_border=true" />
   </a>
 </div>
+
 ---
+
 ## 📚 Learning & Experience
 
 ### 👨‍💻 Languages
