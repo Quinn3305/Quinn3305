@@ -11,3 +11,19 @@
 - 🧠 Fun fact: `I spend more time reading code than writing it`
 - ⭐ Hobbies: `💻 Coding, ✈️ Travel, 🍿 Movie, 🎧 Music 🏋️ Sport`
 - 🎯 Currently:  `Trying to write bug-free code 🔥`
+## 📊 My GitHub Stats
+
+<table align="center" style="border: none; width: auto;">
+  <tr align="center">
+    <td style="padding: 8px;">
+      <a href="https://github.com/Quinn3305">
+        <img height="180em" src="https://github-readme-stats-one-zeta.vercel.app/api?username=Quinn3305&theme=tokyonight&hide_border=true&show_icons=true&icon_color=00BFFF&rank_icon=github" />
+      </a>
+    </td>
+    <td style="padding: 8px;">
+      <a href="https://github.com/Quinn3305">
+        <img height="180em" src="https://github-readme-stats-one-zeta.vercel.app/api/top-langs/?username=Quinn3305&theme=tokyonight&hide_border=true&layout=compact" />
+      </a>
+    </td>
+  </tr>
+</table>
