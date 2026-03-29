@@ -11,6 +11,8 @@
 - 🧠 Fun fact: `I spend more time reading code than writing it`
 - ⭐ Hobbies: `💻 Coding, ✈️ Travel, 🍿 Movie, 🎧 Music 🏋️ Sport`
 - 🎯 Currently:  `Trying to write bug-free code 🔥`
+
+
 ## 📊 My GitHub Stats
 
 <table align="center" style="border: none; width: auto;">
