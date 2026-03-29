@@ -5,3 +5,9 @@
 <p align="center">
   <em>Welcome to my GitHub profile!</em>
 </p>
+
+- ✉️ Contact me at: **kin332k5@gmail.com**
+- 🌱 Currently learning: `.NET Clean Architecture`
+- 🧠 Fun fact: `I spend more time reading code than writing it`
+- ⭐ Hobbies: `💻 Coding, ✈️ Travel, 🍿 Movie, 🎧 Music 🏋️ Sport`
+- 🎯 Currently:  `Trying to write bug-free code 🔥`
