@@ -12,6 +12,7 @@
 - ⭐ Hobbies: `💻 Coding, ✈️ Travel, 🍿 Movie, 🎧 Music 🏋️ Sport`
 - 🎯 Currently:  `Trying to write bug-free code 🔥`
 
+---
 
 ## 📊 My GitHub Stats
 
