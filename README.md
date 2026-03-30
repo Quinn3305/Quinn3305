@@ -7,13 +7,13 @@
 </p>
 
 - ✉️ Contact me at: **kin332k5@gmail.com**
-- 🌱 Currently learning: `.NET Clean Architecture`
+- 🌱 Learning: `.NET Clean Architecture`
 - 🧠 Fun fact: `I spend more time reading code than writing it`
 - ⭐ Hobbies: `💻 Coding, ✈️ Travel, 🍿 Movie, 🎧 Music 🏋️ Sport`
 - 🎯 Currently:  `Trying to write bug-free code 🔥`
 
 ---
-## ✍️ Dev Quote of the Day
+## ✍️ Quote
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </p>
